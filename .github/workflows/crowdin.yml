@@ -1,11 +1,8 @@
 name: Crowdin Sync
 
 on:
-  push:
-    branches: [dev]
-    paths:
-      - "lang/en_us.json"
   workflow_dispatch: {}
+
 jobs:
   synchronize-with-crowdin:
     runs-on: ubuntu-latest
