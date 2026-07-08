@@ -36,5 +36,6 @@
   "hitori.ux.try_to_ignore_resistant.they_them": "Вы не можете начать игнорировать этого игрока, потому что они защищены от игнорирования!",
   "hitori.ux.pronouns.set": "Вы установили местоимения %s.",
   "hitori.ux.pronouns.already_set": "Вы уже установили местоимения %s!",
-  "hitori.ux.pronouns.no_such_pronouns": "Системе не известны местоимения %s."
+  "hitori.ux.pronouns.no_such_pronouns": "Системе не известны местоимения %s.",
+  "modoru.main.remote_message_hover": "Message was delivered from %1$s in %2$sms"
 }
