@@ -50,5 +50,6 @@
   "hitori.ux.pronouns.already_set": "You've already set %s pronouns!",
   "hitori.ux.pronouns.no_such_pronouns": "System doesn't knows %s pronouns.",
 
-  "modoru.main.remote_message_hover": "Message was delivered from %1$s in %2$sms"
+  "modoru.main.remote_message_hover": "Message was delivered from %1$s in %2$sms",
+  "modoru.main.no_recent_message": "We don't know anything about your recent messages, so use /tell instead."
 }
