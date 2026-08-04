@@ -51,5 +51,22 @@
   "hitori.ux.pronouns.no_such_pronouns": "System doesn't knows %s pronouns.",
 
   "modoru.main.remote_message_hover": "Message was delivered from %1$s in %2$sms",
-  "modoru.main.no_recent_message": "We don't know anything about your recent messages, so use /tell instead."
+  "modoru.main.no_recent_message": "We don't know anything about your recent messages, so use /tell instead.",
+
+  "modoru.survival.welcome_message.welcome": "› Good %1$s, %2$s!",
+  "modoru.survival.welcome_message.stats": "› Currently %1$s, %2$s weather. %3$s d. passed since your last visit §8(in-game)§f.",
+  "modoru.survival.welcome_message.group_info": "› %1$s of your group teammates online.",
+  "modoru.survival.welcome_message.wish.1": "› Have a good day!",
+  "modoru.survival.welcome_message.wish.2": "› What are we going to do today?",
+  "modoru.survival.welcome_message.wish.3": "› We missed you!",
+  "modoru.survival.welcome_message.wish.4": "› You haven't checked in for some time. Time to catch up!",
+  "modoru.survival.welcome_message.wish.5": "› Another day - another task!",
+
+  "modoru.survival.welcome_message.time.morning": "morning",
+  "modoru.survival.welcome_message.time.afternoon": "afternoon",
+  "modoru.survival.welcome_message.time.evening": "evening",
+  "modoru.survival.welcome_message.time.night": "night",
+  "modoru.survival.welcome_message.weather.sun": "sunny",
+  "modoru.survival.welcome_message.weather.rain": "rainy",
+  "modoru.survival.welcome_message.weather.storm": "stormy"
 }
