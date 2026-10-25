@@ -37,5 +37,21 @@
   "hitori.ux.pronouns.set": "Вы установили местоимения %s.",
   "hitori.ux.pronouns.already_set": "Вы уже установили местоимения %s!",
   "hitori.ux.pronouns.no_such_pronouns": "Системе не известны местоимения %s.",
-  "modoru.main.remote_message_hover": "Сообщение было доставлено с %1$s за %2$sмс"
+  "modoru.main.remote_message_hover": "Сообщение было доставлено с %1$s за %2$sмс",
+  "modoru.main.no_recent_message": "Мы ничего не знаем о ваших недавних сообщениях, поэтому используйте /tell.",
+  "modoru.survival.welcome_message.welcome": "> %1$s, %2$s!",
+  "modoru.survival.welcome_message.stats": "Сейчас %1$s, %2$s. С вашего последнего визита прошло %3$s дн. §8(игровых)§f.",
+  "modoru.survival.welcome_message.group_info": "> %1$s из участников вашей команды онлайн.",
+  "modoru.survival.welcome_message.wish.1": "> Хорошего дня!",
+  "modoru.survival.welcome_message.wish.2": "> Что будем делать сегодня?",
+  "modoru.survival.welcome_message.wish.3": "> Мы скучали по вам!",
+  "modoru.survival.welcome_message.wish.4": "> Пора наверстать упущенное!",
+  "modoru.survival.welcome_message.wish.5": "> Новый день - новое дело!",
+  "modoru.survival.welcome_message.time.morning": "Доброе утро",
+  "modoru.survival.welcome_message.time.afternoon": "Доброго дня",
+  "modoru.survival.welcome_message.time.evening": "Добрый вечер",
+  "modoru.survival.welcome_message.time.night": "Доброй ночи",
+  "modoru.survival.welcome_message.weather.sun": "солнечно",
+  "modoru.survival.welcome_message.weather.rain": "дождь",
+  "modoru.survival.welcome_message.weather.storm": "гроза"
 }
