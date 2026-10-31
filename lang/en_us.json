@@ -1,72 +1,37 @@
 {
-  "hitori.ux.no_such_player": "There is no player with name %s!",
+  "modoru.misc.error.no_such_player": "There is no player with name %s!",
 
-  "hitori.ux.mentioned.he_him": "%s mentioned you",
-  "hitori.ux.mentioned.she_her": "%s mentioned you",
-  "hitori.ux.mentioned.they_them": "%s mentioned you",
+  "modoru.direct_message.error.cant_send_yourself": "You can't send message to yourself!",
+  "modoru.direct_message.chat.error.have_blocked": "You can't send message to %s because you've blocked them!",
+  "modoru.direct_message.chat.error.are_blocked": "You can't send message to %s because they've blocked you!",
 
-  "hitori.ux.cant_send_yourself": "You can't send message to yourself!",
+  "modoru.global_chat.joined": "%s joined the server",
+  "modoru.global_chat.left": "%s left the server",
 
-  "hitori.ux.have_blocked.he_him": "You can't send message to %s because you've blocked him!",
-  "hitori.ux.have_blocked.she_her": "You can't send message to %s because you've blocked her!",
-  "hitori.ux.have_blocked.they_them": "You can't send message to %s because you've blocked them!",
+  "modoru.chat.remote_message_hover": "Message was delivered from %1$s in %2$sms",
+  "modoru.chat.no_recent_message": "We don't know anything about your recent messages, so use /tell instead.",
 
-  "hitori.ux.are_blocked.he_him": "You can't send message to %s because he's blocked you!",
-  "hitori.ux.are_blocked.she_her": "You can't send message to %s because she's blocked you!",
-  "hitori.ux.are_blocked.they_them": "You can't send message to %s because they've blocked you!",
+  "modoru.ignoring.ignored_now": "You now ignoring %s.",
+  "modoru.ignoring.already_ignored": "You are already ignoring %s.",
+  "modoru.ignoring.unignored_now": "You are no longer ignoring %s.",
+  "modoru.ignoring.not_ignored": "You are not ignoring %s.",
+  "modoru.ignoring.cant_ignore_yourself": "You can't ignore yourself!",
+  "modoru.ignoring.arent_ignoring_anyone": "You aren't ignoring anyone!",
 
-  "hitori.ux.spying.toggled": "You've %s spying mode.",
-  "hitori.ux.spying.enabled": "enabled",
-  "hitori.ux.spying.disabled": "disabled",
+  "modoru.welcome_message.welcome": "› Good %1$s, %2$s!",
+  "modoru.welcome_message.stats": "› Currently %1$s, %2$s weather. %3$s d. passed since your last visit §8(in-game)§f.",
+  "modoru.welcome_message.group_info": "› %1$s of your group teammates online.",
+  "modoru.welcome_message.wish.1": "› Have a good day!",
+  "modoru.welcome_message.wish.2": "› What are we going to do today?",
+  "modoru.welcome_message.wish.3": "› We missed you!",
+  "modoru.welcome_message.wish.4": "› You haven't checked in for some time. Time to catch up!",
+  "modoru.welcome_message.wish.5": "› Another day - another task!",
 
-  "hitori.ux.joined.he_him": "%s joined the server",
-  "hitori.ux.joined.she_her": "%s joined the server",
-  "hitori.ux.joined.they_them": "%s joined the server",
-
-  "hitori.ux.quit.he_him": "%s left the server",
-  "hitori.ux.quit.she_her": "%s left the server",
-  "hitori.ux.quit.they_them": "%s left the server",
-
-  "hitoru.ux.ignored_now": "You now ignoring %s in the %s.",
-  "hitori.ux.already_ignored": "You are already ignoring %s in the %s!",
-  "hitori.ux.unignored_now": "You no longer ignoring %s in the %s.",
-  "hitori.ux.not_ignored": "You don't ignoring %s in the %s!",
-  "hitori.ux.cant_ignore_yourself": "You can't ignore yourself!",
-  "hitori.ux.not_ignore_anyone": "You are not ignoring anyone!",
-
-  "hitori.ux.ignoring_list_title": "Ignoring list",
-  "hitori.ux.ignoring_list.chat": "chat",
-  "hitori.ux.ignoring_list.direct_messages": "dm",
-  "hitori.ux.ignoring_list.both": "both",
-
-  "hitori.ux.ignoring.chat": "chat",
-  "hitori.ux.ignoring.direct_messages": "direct messages",
-
-  "hitori.ux.try_to_ignore_resistant.he_him": "You can't start ignoring this player, because he is ignoring-resistant!",
-  "hitori.ux.try_to_ignore_resistant.she_her": "You can't start ignoring this player, because she is ignoring-resistant!",
-  "hitori.ux.try_to_ignore_resistant.they_them": "You can't start ignoring this player, because they are ignoring-resistant!",
-
-  "hitori.ux.pronouns.set": "You've set %s pronouns.",
-  "hitori.ux.pronouns.already_set": "You've already set %s pronouns!",
-  "hitori.ux.pronouns.no_such_pronouns": "System doesn't knows %s pronouns.",
-
-  "modoru.main.remote_message_hover": "Message was delivered from %1$s in %2$sms",
-  "modoru.main.no_recent_message": "We don't know anything about your recent messages, so use /tell instead.",
-
-  "modoru.survival.welcome_message.welcome": "› Good %1$s, %2$s!",
-  "modoru.survival.welcome_message.stats": "› Currently %1$s, %2$s weather. %3$s d. passed since your last visit §8(in-game)§f.",
-  "modoru.survival.welcome_message.group_info": "› %1$s of your group teammates online.",
-  "modoru.survival.welcome_message.wish.1": "› Have a good day!",
-  "modoru.survival.welcome_message.wish.2": "› What are we going to do today?",
-  "modoru.survival.welcome_message.wish.3": "› We missed you!",
-  "modoru.survival.welcome_message.wish.4": "› You haven't checked in for some time. Time to catch up!",
-  "modoru.survival.welcome_message.wish.5": "› Another day - another task!",
-
-  "modoru.survival.welcome_message.time.morning": "morning",
-  "modoru.survival.welcome_message.time.afternoon": "afternoon",
-  "modoru.survival.welcome_message.time.evening": "evening",
-  "modoru.survival.welcome_message.time.night": "night",
-  "modoru.survival.welcome_message.weather.sun": "sunny",
-  "modoru.survival.welcome_message.weather.rain": "rainy",
-  "modoru.survival.welcome_message.weather.storm": "stormy"
+  "modoru.welcome_message.time.morning": "morning",
+  "modoru.welcome_message.time.afternoon": "afternoon",
+  "modoru.welcome_message.time.evening": "evening",
+  "modoru.welcome_message.time.night": "night",
+  "modoru.welcome_message.weather.sun": "sunny",
+  "modoru.welcome_message.weather.rain": "rainy",
+  "modoru.welcome_message.weather.storm": "stormy"
 }
