@@ -1,5 +1,5 @@
 {
-  "modoru.misc.error.no_such_player": "There is no player with name %s!",
+  "modoru.misc.error.no_such_player": "A player with the username %s does not exist!",
 
   "modoru.direct_message.error.cant_send_yourself": "You can't send message to yourself!",
   "modoru.direct_message.chat.error.have_blocked": "You can't send message to %s because you've blocked them!",
