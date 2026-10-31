@@ -22,9 +22,9 @@ jobs:
           download_translations: true
           
           create_pull_request: true
-          localization_branch_name: l10n_dev_${{ github.run_id }}
+          localization_branch_name: l10n_main_${{ github.run_id }}
           pull_request_title: "New Crowdin translations #${{ github.run_id }}"
-          pull_request_base_branch_name: "dev"
+          pull_request_base_branch_name: "main"
           
           config: "crowdin.yml"
 
